@@ -1,0 +1,48 @@
+[
+  {
+    "CmdAttackControl": {
+      "HandleID": 15,
+      "Receiver": 15,
+      "TgtID": 11,
+      "Range": 1
+    }
+  },
+  {
+    "CmdAttackControl": {
+      "HandleID": 17,
+      "Receiver": 17,
+      "TgtID": 11,
+      "Range": 1
+    }
+  },
+  {
+    "CmdTargetFollowControl": {
+      "HandleID": 6,
+      "Receiver": 6,
+      "TgtID": 1,
+      "CmdSpeed": 400,
+      "CmdAccMag": 1,
+      "CmdG": 6
+    }
+  },
+  {
+    "CmdTargetFollowControl": {
+      "HandleID": 14,
+      "Receiver": 14,
+      "TgtID": 1,
+      "CmdSpeed": 300,
+      "CmdAccMag": 2,
+      "CmdG": 12
+    }
+  },
+  {
+    "CmdTargetFollowControl": {
+      "HandleID": 16,
+      "Receiver": 16,
+      "TgtID": 1,
+      "CmdSpeed": 300,
+      "CmdAccMag": 2,
+      "CmdG": 12
+    }
+  }
+]
